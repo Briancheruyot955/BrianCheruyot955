@@ -1,6 +1,6 @@
 # Hi, 
 
-**Software Engineer & DevOps Engineer | Go, Kubernetes | Building scalable distributed systems. ** 
+Software Engineer & DevOps Engineer | Go, Kubernetes | Building scalable distributed systems. 
 
 I am a Software Engineer with 3+ years of hands-on experience designing, developing, and optimizing high traffic distributed systems. I specialize in building highly resilient, scalable architectures and orchestrating containerized deployments across multi cloud environments (GCP, DigitalOcean, AWS, Contabo). 
 
