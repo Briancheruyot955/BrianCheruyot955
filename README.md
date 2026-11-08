@@ -11,7 +11,7 @@ My engineering focus is on large scale data streaming, mission critical payment 
 * **Platform Architecture:** Architecting backend services for **SomaLive** (e-learning/LiveKit WebRTC) and **MaxGas** (logistics, inventory ledger, and order management).
 * **Continuous Growth:** Currently preparing for my **AWS Certified Developer – Associate (DVA-C02)** and **Certified Kubernetes Administrator (CKA)** exams.
 
-###  Technical Arsenal
+###  Technical
 
 **Backend & Core Systems**
 * **Languages:** Go, Dart
