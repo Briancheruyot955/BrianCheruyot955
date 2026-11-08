@@ -28,13 +28,6 @@ My engineering focus is on large scale data streaming, mission critical payment 
 * **In Memory & Analytical:** Redis, KeyDB, ClickHouse
 * **Message Brokers:** NATS JetStream, Redpanda / Kafka
 
-###  GitHub Activity
-
-[![Brian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Briancheruyot955&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&text_color=c9d1d9&icon_color=58a6ff&title_color=58a6ff)](https://github.com/Briancheruyot955)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Briancheruyot955&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&text_color=c9d1d9&title_color=58a6ff)](https://github.com/Briancheruyot955)
-
-
 ---
 
 ###  Let's Connect
