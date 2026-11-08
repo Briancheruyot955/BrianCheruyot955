@@ -1,43 +1,47 @@
-# Hi there, I'm Brian Cheruiyot 
+# Hi there, I'm Cheruiyot Kipngeno Brian 
 
-**Software Engineer & DevOps Specialist**
+** Software Engineer & DevOps Engineer | Go, Kubernetes | Building scalable distributed systems. ** 
 
-I build scalable distributed systems, microservices, and robust cloud-native infrastructure. I specialize in developing high-performance backends with Go, orchestrating deployments with Kubernetes, and crafting seamless user experiences across web and mobile.
+I am a Software Engineer with 2.5+ years of hands-on experience designing, developing, and optimizing high-traffic distributed systems. I specialize in building highly resilient, scalable architectures and orchestrating containerized deployments across multi-cloud environments (GCP, DigitalOcean, AWS, Contabo). 
 
-###  What I'm Currently Working On
-* Architecting backend services and real-time state synchronization for streaming and e-learning platforms (SomaLive).
-* Developing comprehensive logistics, inventory ledger, and order management systems (MaxGas).
-* Preparing for the **AWS Certified Developer – Associate (DVA-C02)** and **Certified Kubernetes Administrator (CKA)** exams.
+My engineering focus is on large-scale data streaming, mission-critical payment gateways, real-time transaction engines, and high-throughput backends.
 
-###  Tech Stack & Tools
+###  Current Focus & Journey
+* **High-Concurrency Infrastructure:** Building real-time state synchronization, atomic locking mechanisms, and provably fair algorithms for multiplayer crash platforms and casino backends.
+* **Platform Architecture:** Architecting backend services for **SomaLive** (e-learning/LiveKit WebRTC) and **MaxGas** (logistics, inventory ledger, and order management).
+* **Continuous Growth:** Currently preparing for my **AWS Certified Developer – Associate (DVA-C02)** and **Certified Kubernetes Administrator (CKA)** exams.
 
-**Backend & Architecture**
+###  Technical Arsenal
+
+**Backend & Core Systems**
 * **Languages:** Go, Dart, JavaScript/TypeScript
-* **Frameworks:** Echo, Gin
-* **Architecture:** Microservices, gRPC, Event-Driven Streaming, Domain Decoupling
+* **Frameworks:** Echo, Gin, Nuxt 3, Vue.js, Flutter
+* **Architecture:** Microservices, gRPC, Event-Driven Streaming, Clean Architecture
 
-**Frontend & Mobile**
-* **Web:** Vue.js, Nuxt 3, Tailwind CSS
-* **Mobile:** Flutter
+**Infrastructure & Observability**
+* **Containerization & Orchestration:** Kubernetes (managed & bare-metal), Helm, Docker
+* **CI/CD & DevOps:** GitHub Actions, Linux (AlmaLinux/Ubuntu) server administration
+* **Observability:** OpenTelemetry, Grafana Alloy, Loki, Prometheus, Uptrace, structured logging (slog/Logrus)
 
-**Infrastructure & DevOps**
-* **Containerization:** Docker, Kubernetes, Helm
-* **Cloud & Hosting:** GCP, DigitalOcean, Scaleway, Bare-metal/VPS (AlmaLinux)
-* **Observability:** OpenTelemetry, Grafana Alloy, Loki, Prometheus, structured logging (Logrus/slog)
-* **CI/CD:** GitHub Actions
-
-**Databases & Message Brokers**
+**Databases & Data Pipelines**
 * **Relational:** PostgreSQL, MySQL
-* **NoSQL / In-Memory:** Redis, KeyDB, ClickHouse
-* **Messaging:** NATS JetStream, Redpanda/Kafka
+* **In-Memory & Analytical:** Redis, KeyDB, ClickHouse
+* **Message Brokers:** NATS JetStream, Redpanda / Kafka
 
-### GitHub Stats
+###  GitHub Activity
 
-<!-- You can generate live stat cards using github-readme-stats. Replace 'Briancheruyot955' if needed -->
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Briancheruyot955&show_icons=true&theme=radical" alt="Brian's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Briancheruyot955&layout=compact&theme=radical" alt="Top Languages" />
+  <a href="https://github.com/Briancheruyot955">
+    <img src="https://github-readme-stats.vercel.app/api?username=Briancheruyot955&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&text_color=c9d1d9&icon_color=58a6ff&title_color=58a6ff" alt="Brian's GitHub Stats" />
+  </a>
+  <a href="https://github.com/Briancheruyot955">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Briancheruyot955&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&text_color=c9d1d9&title_color=58a6ff" alt="Top Languages" />
+  </a>
 </p>
 
+---
+
 ###  Let's Connect
-* **LinkedIn:** [Brian Cheruiyot](https://linkedin.com/in/brian-cheruiyot-1bb4) <!-- Ensure this link matches your actual URL -->
+* **Portfolio:** [cheruiyot-brian.netlify.app](https://cheruiyot-brian.netlify.app/)
+* **LinkedIn:** [Brian Cheruiyot](https://linkedin.com/in/brian-cheruiyot-1bb4)
+* **Status:** Open to new opportunities and collaborations in distributed systems and platform engineering.
